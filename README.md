@@ -1,6 +1,6 @@
 ## 👋 Hi!
 
-I'm Hekel1989, a Senior EMS Consultant, HomeLab enthusiast, Linux fan and Tech Geek.   
+I'm Hekel1989, an EMS Architect, HomeLab enthusiast, Linux fan and Tech Geek.   
 My content isn't focused on any specific topic, I push stuff to my GitHub as and when I end up going down the rabbit hole of whatever might have excited me at any given moment in time 
 
 ## 🧑‍💻 My open source repos
